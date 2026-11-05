@@ -10,7 +10,7 @@ Cada loja também ganha uma vitrine com endereço próprio, onde o cliente monta
 
 Modelos de arte: encarte, destaque, aviso, combo de 2 a 6 produtos e prateleira.
 
-[Testar grátis na minha loja](https://web.draftmoor.online/)
+[Testar grátis na minha loja](https://draftmoor.online/)
 
 ## Também faço sob medida
 
