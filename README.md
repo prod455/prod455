@@ -26,6 +26,8 @@ Comecei no front-end e logo fui para o back-end, construindo APIs. No primeiro e
 
 [reelster](https://github.com/prod455/reelster): extraia vídeos de reels recebidos e enviados de uma DM selecionada.
 
+[br](https://github.com/prod455/br): CPF, CNPJ, Pix (chave e copia e cola), telefone, WhatsApp e reais, em TypeScript e Zig, com os mesmos testes nos dois.
+
 ## Stack
 
 Zig · TypeScript · Node.js · Rust
