@@ -32,6 +32,8 @@ Comecei no front-end e logo fui para o back-end, construindo APIs. No primeiro e
 
 [entrar](https://github.com/prod455/entrar): Entrar com Google em Zig (0.16 e 0.17), sem rede e sem banco: monta a URL e o pedido do token e confere o id_token.
 
+[httpz](https://github.com/prod455/httpz): o servidor HTTP em Zig (http.zig) com as correções de travamento e de queda que o upstream ainda não tem, usado pelo Draftmoor e pelo Autocorret.
+
 ## Stack
 
 Zig · TypeScript · Node.js · Rust
