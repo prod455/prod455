@@ -12,30 +12,33 @@ Sou desenvolvedor full stack em Goiânia. Faço site, loja com pedido pelo Whats
 
 **Boostham** (página em breve): para quem impulsiona post com pouca verba. Lê o resultado das campanhas na Meta e manda por e-mail o que mudou e onde vale pôr o dinheiro.
 
-## Sob medida
+## Serviços
 
-Você me conta o problema e eu entrego funcionando. O código fica com você.
+O que eu faço para a sua loja vender, divulgar, atender e ganhar tempo. Você conta o problema, eu entrego funcionando.
 
-- **Vender:** landing page e site rápido, feito para aparecer no Google; loja online com pedido pelo WhatsApp e Pix; arte de oferta saindo do catálogo.
-- **Integrar:** WhatsApp, Instagram e Facebook pelas APIs oficiais da Meta; ligação entre sistemas, banco e portal; login com Google, painel e relatório.
-- **Automatizar:** planilha, cadastro e tarefa repetitiva; coleta e organização de dados de sites; extensão para Chrome; bot de Telegram ou Discord.
+### Vender pela internet
 
-## O que eu já fiz
+- **Site da loja:** Página rápida no celular, feita para a loja aparecer quando o cliente procura no Google.
+- **Loja com pedido no WhatsApp:** O cliente escolhe os produtos, monta o pedido e manda no WhatsApp da loja, com o Pix na tela.
+- **Um cadastro, vários portais:** Você cadastra o produto ou o imóvel uma vez e ele aparece em todos os portais. Mudou o preço, muda em todos.
 
-Coisas que construí nos meus produtos e repositórios e posso fazer para a sua loja.
+### Divulgar
 
-- **Arte de oferta automática:** A foto do produto vira arte de feed e Story com o logo, as cores e o preço da loja. O fundo sai sozinho e a legenda vem pronta.
-- **Loja com pedido no WhatsApp:** Vitrine com endereço próprio e carrinho. O pedido chega organizado no WhatsApp, com o Pix na tela e o catálogo em PDF.
-- **QR Code no balcão:** Uma página que abre Pix, Wi-Fi, avaliação no Google, Instagram e WhatsApp. Você edita num painel e o adesivo sai pronto para a gráfica.
-- **WhatsApp e Instagram oficiais:** Atendimento e captação de contatos pelas APIs oficiais da Meta, com IA para responder e separar quem quer comprar.
-- **Relatório de anúncios:** O resultado das campanhas da Meta chega por e-mail, com o que mudou e onde vale pôr a verba.
-- **Um cadastro, vários canais:** Você cadastra uma vez e o anúncio vai para portais e marketplaces por feed e API. Mudou o preço, todos atualizam.
-- **Lista de clientes para prospectar:** Todo dia, negócios da sua região que combinam com o que você vende, com a mensagem de convite pronta no WhatsApp.
-- **Extensão para Chrome:** Para o que o site não deixa fazer: exportar Reels de uma conversa do Instagram ou preencher cadastro de anúncio em outro site.
-- **Vídeo com roteiro e narração:** Do assunto ao vídeo pronto: roteiro, fontes conferidas, narração e animação, com revisão antes de publicar.
-- **Login e acesso:** Entrar com Google, login único entre sistemas e painel com permissão para cada pessoa da equipe.
-- **Site que aparece no Google:** Página rápida no celular, com título, descrição, dados estruturados e mapa do site certos para a busca.
-- **Integração entre sistemas:** Ligo o seu sistema a banco, portal ou planilha por API ou exportação, sem ninguém copiar dado na mão.
+- **Arte de oferta:** A foto do produto vira post de feed e Story com o logo, as cores e o preço da loja.
+- **Vídeo para a rede social:** Do assunto ao vídeo pronto, com roteiro, narração e animação, revisado antes de postar.
+- **Resultado dos anúncios:** O que mudou nas suas campanhas do Instagram e do Facebook chega por e-mail, com onde vale pôr a verba.
+
+### Atender
+
+- **WhatsApp e Instagram da loja:** Atendimento pelo WhatsApp e pelo Instagram oficiais, com resposta rápida e os interessados separados de quem só está olhando.
+- **QR Code no balcão:** O cliente aponta a câmera e abre o Pix, o Wi-Fi, a avaliação no Google, o Instagram e o WhatsApp da loja.
+
+### Ganhar tempo
+
+- **Lista de clientes:** Todo dia, lojas e negócios da região que combinam com o que você vende, com a mensagem de convite pronta.
+- **Tarefa que hoje é feita na mão:** Planilha, cadastro repetido e dado copiado de um site para outro passam a ser feitos sozinhos.
+- **Sistemas conversando:** O sistema que a loja já usa passa a trocar dados com o banco, o portal ou a planilha, sem ninguém digitar de novo.
+- **Acesso da equipe:** Cada pessoa da loja entra com a própria conta Google e vê só o que precisa.
 
 ## Open-source
 
