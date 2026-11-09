@@ -36,6 +36,6 @@ Comecei no front-end e logo fui para o back-end, construindo APIs. No primeiro e
 
 ## Stack
 
-Zig · TypeScript · Node.js · C# / .NET · Python · Rust · PostgreSQL · Cloudflare Workers
+Zig · TypeScript · Node.js · Rust
 
 ---
