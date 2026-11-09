@@ -1,26 +1,28 @@
 # Paulo Rodrigues
 
-Sou dev full stack em Goiânia e faço software para comércio local vender mais e perder menos tempo com tarefa repetida.
+Sou desenvolvedor full stack em Goiânia. Faço site, loja com pedido pelo WhatsApp e Pix e arte de oferta que sai do catálogo, e automatizo a tarefa que alguém da loja ainda faz na mão todo dia.
 
 **Portfólio e contato: [prod455.pages.dev](https://prod455.pages.dev)**
 
-## Draftmoor
+## Produtos
 
-O Draftmoor transforma a foto do produto em post. A loja fotografa com o celular, o fundo sai sozinho e a arte fica pronta para o feed ou o Story, com logo, cores e preço. A legenda vem junto, então é só copiar e postar.
+**[Draftmoor](https://draftmoor.online/)** (no ar): a loja tira a foto do produto com o celular e recebe a arte do feed e do Story com a marca e o preço dela, além de uma vitrine onde o cliente manda o pedido pelo WhatsApp.
 
-Cada loja também ganha uma vitrine com endereço próprio, onde o cliente monta o pedido e manda direto pelo WhatsApp, com a chave Pix já na tela. O catálogo dá para importar de uma planilha, e horário, feriado e entrega ficam sempre à vista do cliente.
+**Boardon** (página em breve): plaquinha com QR Code no balcão. O cliente aponta a câmera e abre o Pix, o Wi-Fi, a avaliação no Google, o Instagram e o WhatsApp da loja.
 
-Modelos de arte: encarte, destaque, aviso, combo de 2 a 6 produtos e prateleira.
+**Boostham** (página em breve): para quem impulsiona post com pouca verba. Lê o resultado das campanhas na Meta e manda por e-mail o que mudou e onde vale pôr o dinheiro.
 
-[Testar grátis na minha loja](https://draftmoor.online/)
+## Sob medida
 
-## Também faço sob medida
+Você me conta o problema e eu entrego funcionando. O código fica com você.
 
-Landing page, loja com pedido pelo WhatsApp, arte automática de oferta, raspagem de dados de sites, extensão para Chrome, bot de Telegram ou Discord, API e integração entre sistemas.
+- **Vender:** landing page e site rápido, feito para aparecer no Google; loja online com pedido pelo WhatsApp e Pix; arte de oferta saindo do catálogo.
+- **Integrar:** WhatsApp, Instagram e Facebook pelas APIs oficiais da Meta; ligação entre sistemas, banco e portal; login com Google, painel e relatório.
+- **Automatizar:** planilha, cadastro e tarefa repetitiva; coleta e organização de dados de sites; extensão para Chrome; bot de Telegram ou Discord.
 
-## Como cheguei aqui
+## Experiência
 
-Comecei no front-end e logo fui para o back-end, construindo APIs. No primeiro emprego como full stack usei Angular, TypeScript e C#. Depois fiz uma ferramenta de análise de dados de ERP com drill-down, e foi ali que vi de perto onde os sistemas travam. Voltei ao C# para uma API de login único (SSO) e para integrações de exportação de dados, já usando Vue no front.
+**C#:** login único (SSO) e integrações de exportação de dados.
 
 ## Open-source
 
@@ -34,7 +36,7 @@ Comecei no front-end e logo fui para o back-end, construindo APIs. No primeiro e
 
 [entrar](https://github.com/prod455/entrar): Entrar com Google em Zig (0.16 e 0.17), sem rede e sem banco: monta a URL e o pedido do token e confere o id_token.
 
-[httpz](https://github.com/prod455/httpz): o servidor HTTP em Zig (http.zig) com as correções de travamento e de queda que o upstream ainda não tem, usado pelo Draftmoor e pelo Autocorret.
+[httpz](https://github.com/prod455/httpz): o servidor HTTP em Zig (http.zig) com as correções de travamento e de queda que o upstream ainda não tem, usado pelo Draftmoor.
 
 ## Stack
 
