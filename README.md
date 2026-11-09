@@ -20,6 +20,23 @@ Você me conta o problema e eu entrego funcionando. O código fica com você.
 - **Integrar:** WhatsApp, Instagram e Facebook pelas APIs oficiais da Meta; ligação entre sistemas, banco e portal; login com Google, painel e relatório.
 - **Automatizar:** planilha, cadastro e tarefa repetitiva; coleta e organização de dados de sites; extensão para Chrome; bot de Telegram ou Discord.
 
+## O que eu já fiz
+
+Coisas que construí nos meus produtos e repositórios e posso fazer para a sua loja.
+
+- **Arte de oferta automática:** A foto do produto vira arte de feed e Story com o logo, as cores e o preço da loja. O fundo sai sozinho e a legenda vem pronta.
+- **Loja com pedido no WhatsApp:** Vitrine com endereço próprio e carrinho. O pedido chega organizado no WhatsApp, com o Pix na tela e o catálogo em PDF.
+- **QR Code no balcão:** Uma página que abre Pix, Wi-Fi, avaliação no Google, Instagram e WhatsApp. Você edita num painel e o adesivo sai pronto para a gráfica.
+- **WhatsApp e Instagram oficiais:** Atendimento e captação de contatos pelas APIs oficiais da Meta, com IA para responder e separar quem quer comprar.
+- **Relatório de anúncios:** O resultado das campanhas da Meta chega por e-mail, com o que mudou e onde vale pôr a verba.
+- **Um cadastro, vários canais:** Você cadastra uma vez e o anúncio vai para portais e marketplaces por feed e API. Mudou o preço, todos atualizam.
+- **Lista de clientes para prospectar:** Todo dia, negócios da sua região que combinam com o que você vende, com a mensagem de convite pronta no WhatsApp.
+- **Extensão para Chrome:** Para o que o site não deixa fazer: exportar Reels de uma conversa do Instagram ou preencher cadastro de anúncio em outro site.
+- **Vídeo com roteiro e narração:** Do assunto ao vídeo pronto: roteiro, fontes conferidas, narração e animação, com revisão antes de publicar.
+- **Login e acesso:** Entrar com Google, login único entre sistemas e painel com permissão para cada pessoa da equipe.
+- **Site que aparece no Google:** Página rápida no celular, com título, descrição, dados estruturados e mapa do site certos para a busca.
+- **Integração entre sistemas:** Ligo o seu sistema a banco, portal ou planilha por API ou exportação, sem ninguém copiar dado na mão.
+
 ## Open-source
 
 [br](https://github.com/prod455/br): CPF, CNPJ, Pix (chave e copia e cola), telefone, WhatsApp e reais, em TypeScript e Zig, com os mesmos testes nos dois.
