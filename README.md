@@ -30,6 +30,8 @@ Comecei no front-end e logo fui para o back-end, construindo APIs. No primeiro e
 
 [meta](https://github.com/prod455/meta): Graph API, login e webhook da Meta (Instagram, Facebook, WhatsApp) para Node e Workers, sem dependências e sem token na URL.
 
+[entrar](https://github.com/prod455/entrar): Entrar com Google em Zig (0.16 e 0.17), sem rede e sem banco: monta a URL e o pedido do token e confere o id_token.
+
 ## Stack
 
 Zig · TypeScript · Node.js · Rust
