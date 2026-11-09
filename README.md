@@ -20,10 +20,6 @@ Você me conta o problema e eu entrego funcionando. O código fica com você.
 - **Integrar:** WhatsApp, Instagram e Facebook pelas APIs oficiais da Meta; ligação entre sistemas, banco e portal; login com Google, painel e relatório.
 - **Automatizar:** planilha, cadastro e tarefa repetitiva; coleta e organização de dados de sites; extensão para Chrome; bot de Telegram ou Discord.
 
-## Experiência
-
-**CSharp:** login único (SSO) e integrações de exportação de dados.
-
 ## Open-source
 
 [framechester](https://github.com/prod455/framechester): motor self-hosted de produção e análise de mídia.
