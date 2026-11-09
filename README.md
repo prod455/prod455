@@ -28,6 +28,8 @@ Comecei no front-end e logo fui para o back-end, construindo APIs. No primeiro e
 
 [br](https://github.com/prod455/br): CPF, CNPJ, Pix (chave e copia e cola), telefone, WhatsApp e reais, em TypeScript e Zig, com os mesmos testes nos dois.
 
+[meta](https://github.com/prod455/meta): Graph API, login e webhook da Meta (Instagram, Facebook, WhatsApp) para Node e Workers, sem dependências e sem token na URL.
+
 ## Stack
 
 Zig · TypeScript · Node.js · Rust
