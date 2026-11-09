@@ -22,7 +22,7 @@ Você me conta o problema e eu entrego funcionando. O código fica com você.
 
 ## Experiência
 
-**C#:** login único (SSO) e integrações de exportação de dados.
+**CSharp:** login único (SSO) e integrações de exportação de dados.
 
 ## Open-source
 
