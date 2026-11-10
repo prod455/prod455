@@ -8,7 +8,7 @@ Sou desenvolvedor full stack em Goiânia. Faço site, loja com pedido pelo Whats
 
 **[Draftmoor](https://draftmoor.online/)** (no ar): a loja tira a foto do produto com o celular e recebe a arte do feed e do Story com a marca e o preço dela, além de uma vitrine onde o cliente manda o pedido pelo WhatsApp.
 
-**[Boardon](https://boardon.draftmoor.online/)** (no ar): plaquinha com QR Code no balcão. O cliente aponta a câmera e abre o Pix, o Wi-Fi, a avaliação no Google, o Instagram e o WhatsApp da loja.
+**[Boardon](https://boardon.draftmoor.online/)** (no ar): placa de balcão com QR Code, NFC ou os dois. O cliente aponta a câmera ou encosta o celular e abre o Pix, o Wi-Fi, a avaliação no Google, o Instagram e o WhatsApp da loja.
 
 **Boostham** (página em breve): para quem impulsiona post com pouca verba. Lê o resultado das campanhas na Meta e manda por e-mail o que mudou e onde vale pôr o dinheiro.
 
@@ -31,7 +31,7 @@ O que eu faço para a sua loja vender, divulgar, atender e ganhar tempo. Você c
 ### Atender
 
 - **WhatsApp e Instagram da loja:** Atendimento pelo WhatsApp e pelo Instagram oficiais, com resposta rápida e os interessados separados de quem só está olhando.
-- **QR Code no balcão:** O cliente aponta a câmera e abre o Pix, o Wi-Fi, a avaliação no Google, o Instagram e o WhatsApp da loja.
+- **Placa no balcão:** Com QR Code, NFC ou os dois: o cliente abre o Pix, o Wi-Fi, a avaliação no Google, o Instagram e o WhatsApp da loja.
 
 ### Ganhar tempo
 
